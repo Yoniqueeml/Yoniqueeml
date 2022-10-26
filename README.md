@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Ivan Kuzmin</h1>
 <h3 align="center">I'm a third-year student</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.imgur.com/IkdLIvu.gif](https://camo.githubusercontent.com/6c6628e6565cf56f6bd667491d2f1d2ec0a10fd19077d65caf253401333050e4/68747470733a2f2f692e696d6775722e636f6d2f496b644c4976752e676966)">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/IkdLIvu.gif">
 
 - 🔭 I’m currently working on [PetGame](https://github.com/YoniqueeZyzzFan/PetGame)
 
