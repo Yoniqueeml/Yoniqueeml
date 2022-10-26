@@ -7,7 +7,7 @@
 
 -  Some of my projects are available at [https://github.com/YoniqueeZyzzFan](https://github.com/YoniqueeZyzzFan)
 
--  Ask me about **everything**. Currently looking for an internship.
+-  Ask me about **everything**. Currently looking for an **internship**.
 
 -  How to reach me: **yoniqueefake@gmail.com**
 
