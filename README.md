@@ -5,7 +5,7 @@
 
 -  I’m currently learning **CTF tasks, python development**
 
-- 👨💻 Some of my projects are available at [https://github.com/YoniqueeZyzzFan](https://github.com/YoniqueeZyzzFan)
+-  Some of my projects are available at [https://github.com/YoniqueeZyzzFan](https://github.com/YoniqueeZyzzFan)
 
 -  Ask me about **everything**. Currently looking for an internship.
 
