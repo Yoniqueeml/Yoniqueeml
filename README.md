@@ -1,22 +1,20 @@
 <h1 align="center">Hello there, I'm Ivan Kuzmin</h1>
 <h3 align="center">I'm a third-year student</h3>
 
--  I’m currently working on [PetGame](https://github.com/YoniqueeZyzzFan/PetGame)
+- 🔭 I’m currently working on [PetGame](https://github.com/YoniqueeZyzzFan/PetGame)
 
--  I’m currently learning **CTF tasks, python development**
+- 🌱 I’m currently learning **CTF tasks, python development**
 
--  Some of my projects are available at [https://github.com/YoniqueeZyzzFan](https://github.com/YoniqueeZyzzFan)
+- 👨‍💻 Some of my projects are available at [https://github.com/YoniqueeZyzzFan](https://github.com/YoniqueeZyzzFan)
 
--  Ask me about **everything**. Currently looking for an **internship**.
+- 💬 Ask me about **everything. Currently lookig**
 
--  How to reach me: **yoniqueefake@gmail.com**
-
--  Preferred Language: **english**
-
+- 📫 How to reach me **yoniqueefake@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/C7TABmzKCu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yoniQuee#4195" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20337501/yoniquee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20337501/yoniquee" height="30" width="40" /></a>
+<a href="https://discord.gg/yoniQuee#4195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yoniQuee#4195" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
