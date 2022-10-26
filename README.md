@@ -1,15 +1,15 @@
 <h1 align="center">Hello there, I'm Ivan Kuzmin</h1>
 <h3 align="center">I'm a third-year student</h3>
 
-- 🔭 I’m currently working on [PetGame](https://github.com/YoniqueeZyzzFan/PetGame)
+-  I’m currently working on [PetGame](https://github.com/YoniqueeZyzzFan/PetGame)
 
-- 🌱 I’m currently learning **CTF tasks, python development**
+-  I’m currently learning **CTF tasks, python development**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/YoniqueeZyzzFan](https://github.com/YoniqueeZyzzFan)
+- 👨💻 Some of my projects are available at [https://github.com/YoniqueeZyzzFan](https://github.com/YoniqueeZyzzFan)
 
-- 💬 Ask me about **everything**. Currently looking for an internship.
+-  Ask me about **everything**. Currently looking for an internship.
 
-- 📫 How to reach me **yoniqueefake@gmail.com**
+-  How to reach me **yoniqueefake@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
