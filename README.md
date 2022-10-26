@@ -1,5 +1,6 @@
 <h1 align="center">Hello there, I'm Ivan Kuzmin</h1>
 <h3 align="center">I'm a third-year student</h3>
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/IkdLIvu.gif">
 
 - 🔭 I’m currently working on [PetGame](https://github.com/YoniqueeZyzzFan/PetGame)
 
@@ -10,6 +11,8 @@
 - 💬 Ask me about **everything. Currently lookig**
 
 - 📫 How to reach me **yoniqueefake@gmail.com**
+
+-  Preferred Language: **english**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
