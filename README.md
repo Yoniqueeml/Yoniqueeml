@@ -14,6 +14,8 @@
 -  Preferred Language: **english**
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/IkdLIvu.gif">
+![image](https://user-images.githubusercontent.com/75803061/197973233-027f7f76-b7b2-4520-bd7f-762685d3c8c4.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
