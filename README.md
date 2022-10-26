@@ -13,7 +13,7 @@
 
 -  Preferred Language: **english**
 
-(img align="right" alt="Coding" width="400" src="https://i.imgur.com/IkdLIvu.gif")
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/IkdLIvu.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
