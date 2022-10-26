@@ -9,9 +9,7 @@
 
 -  Ask me about **everything**. Currently looking for an internship.
 
--  How to reach me:
--   **yoniqueefake@gmail.com**
--   **https://discord.gg/C7TABmzKCu**
+-  How to reach me: **yoniqueefake@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
