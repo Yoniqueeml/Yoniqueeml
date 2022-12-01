@@ -2,13 +2,7 @@
 <h3 align="center">I'm a third-year student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/IkdLIvu.gif">
 
-- 🔭 I’m currently working on [Pet_RhythmGame](https://github.com/YoniqueeZyzzFan/Pet_RhythmGame)
-
-- 🌱 I’m currently learning **CTF tasks, python development**
-
-- 👨‍💻 Some of my projects are available at [https://github.com/YoniqueeZyzzFan](https://github.com/YoniqueeZyzzFan)
-
-- 💬 Ask me about **everything**. Looking for an **internship**
+- 💬 Ask me about **everything**
 
 - 📫 How to reach me **yoniqueefake@gmail.com**
 
