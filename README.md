@@ -1,8 +1,3 @@
-<h1 align="center">Hello there, I'm Ivan Kuzmin</h1>
-<h3 align="center">I'm a third-year student</h3>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/IkdLIvu.gif">
-
-- 💬 Ask me about **everything**
 
 - 📫 How to reach me **yoniqueefake@gmail.com**
 
