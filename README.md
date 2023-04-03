@@ -1,5 +1,5 @@
 
-- 📫 How to reach me **yoniqueefake@gmail.com**
+- **yoniqueefake@gmail.com**
 
 -  Preferred Language: **english**
 
